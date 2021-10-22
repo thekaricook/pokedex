@@ -1,0 +1,12 @@
+.navbar {
+    padding: 20px;
+    color: white;
+}
+.logo-container {
+    display: flex;
+}
+.poke-logo {
+    width: 200px;
+    margin-left: 5%;
+    margin-top: 10px;
+}
